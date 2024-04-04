@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam6306
 - 👀 I’m interested in programming 👩‍💻
 - 🌱 I’m currently learning programming
-- 📫 How to reach me through my email 📧
+- 📫 How to reach me at email📧 - shambhavisharma6306@gmail.com
 - ⚡ Fun fact: iam quite 😪
 
 <!---
